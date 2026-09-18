@@ -17,9 +17,9 @@
     "nodemon": "^3.1.0"
   },
   "devDependencies": {
-    "@babel/core": "^7.20.5",
-    "@babel/plugin-transform-runtime": "^7.19.6",
-    "@babel/preset-env": "^7.20.2",
+    "@babel/core": "^8.0.0",
+    "@babel/plugin-transform-runtime": "^8.0.0",
+    "@babel/preset-env": "^8.0.0",
     "jest": "^29.3.1",
     "supertest": "^7.0.0"
   }
